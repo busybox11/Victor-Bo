@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ❓ I'm Victor B, a 15 years old 👦 that ❤️ learning new things. 
 - ❤️ I like programming (lol why would I have a GitHub otherwise), and learning languages
 - 🏳️ I'm 🇫🇷 and I learn 🇬🇧 🇪🇸 🇮🇹 🇷🇺
-- 📫 Contact me at `victor.bonnelle@protonmail.com`
-- <img src="img/discord.svg" width="21px" height="21px"> My discord
+- 📕 I have a blog where I write mainly tutorials at https://victor-b.medium.com/
+- 📫 Contact me on Discord at `Victor B#8230
