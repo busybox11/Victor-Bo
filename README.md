@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ❤️ I like programming and learning languages
 - 🏳️ I'm 🇫🇷 and I learn 🇬🇧 🇪🇸 🇮🇹 🇷🇺
 - 📕 I have a blog where I write mainly tutorials at https://victor-b.medium.com/
-- 📫 Contact me on Discord at `Victor B#8230
+- 📫 Contact me on Discord at `Victor B#8230`
