@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ❤️ I like programming (lol why would I have a GitHub otherwise), and learning languages
 - 🏳️ I'm 🇫🇷 and I learn 🇬🇧 🇪🇸 🇮🇹 🇷🇺
 - 📫 Contact me at `victor.bonnelle@protonmail.com`
-- ![](img/discord.svg) My discord
+- <img src="img/discord.svg" width="21px" height="21px"> My discord
