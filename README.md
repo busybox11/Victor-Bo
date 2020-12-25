@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ❓ I'm Victor B, a 15 years old 👦 that ❤️ learning new things. 
+- ❤️ I like programming (lol why would I have a GitHub otherwise), and learning languages
+- 🏳️ I'm 🇫🇷 and I learn 🇬🇧 🇪🇸 🇮🇹 🇷🇺
+- 📫 Contact me at `victor.bonnelle@protonmail.com`
