@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - ❤️ I like programming (lol why would I have a GitHub otherwise), and learning languages
 - 🏳️ I'm 🇫🇷 and I learn 🇬🇧 🇪🇸 🇮🇹 🇷🇺
 - 📫 Contact me at `victor.bonnelle@protonmail.com`
+- ![Discord](./res/drawable/ic_discord.png) My discord
